@@ -12,9 +12,11 @@
 
 .header{
   width: 10%;
-  background-color: red;
+  box-shadow: rgb(235, 235, 235) 0px 0px 40px 0px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
   height: 100vh;
-  position: fixed;
+  position: sticky;
   left: 0;
   top: 0;
   bottom: 0;

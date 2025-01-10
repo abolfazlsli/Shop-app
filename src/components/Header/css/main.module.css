@@ -1,0 +1,22 @@
+.menu{
+    width: 100%;
+    height: fit-content;
+}
+
+.menu .menuitem{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 15px;
+}
+
+.menu .menuitem a{
+    color: black;
+    text-decoration: none;
+}
+
+.menu .menuitem a svg{
+    width: 50px;
+    height: 25px;
+}
